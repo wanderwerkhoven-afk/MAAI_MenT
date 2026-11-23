@@ -1,5 +1,4 @@
-# Lokale datasets, getrainde modellen en gegenereerde resultaten
-/data/
+# Lokale virtuele omgevingen en Python-cache
 /models/
 /results/
 /.venv/
