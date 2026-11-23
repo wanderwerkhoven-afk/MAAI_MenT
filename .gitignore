@@ -1,0 +1,9 @@
+# Lokale datasets, getrainde modellen en gegenereerde resultaten
+/data/
+/models/
+/results/
+/.venv/
+/venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
